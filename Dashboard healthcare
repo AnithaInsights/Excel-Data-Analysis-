@@ -1,0 +1,19 @@
+# Healthcare Outcomes and Charges Dashboard
+
+## Overview
+This project is an interactive healthcare dashboard created using Microsoft Excel. The dashboard provides insights into patient health metrics, hospital charges, BMI analysis, HbA1c levels, and diabetes status through visualizations and slicers.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Visualization
+
+## Features
+- Interactive dashboard with slicers
+- BMI and Age analysis
+- HbA1c insights
+- Hospital charges comparison
+- Diabetes and weight status filtering
+- KPI cards for quick insights
